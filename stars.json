@@ -1,9 +1,9 @@
 [
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 14596,
+    "stargazers_count": 14630,
     "open_issues_count": 114,
-    "forks_count": 1799
+    "forks_count": 1808
   },
   {
     "full_name": "ddsuhaimi/fullstack-boilerplate",
@@ -19,8 +19,8 @@
   },
   {
     "full_name": "jpedroschmitz/typescript-nextjs-starter",
-    "stargazers_count": 1106,
-    "open_issues_count": 3,
+    "stargazers_count": 1107,
+    "open_issues_count": 4,
     "forks_count": 143
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "rmanguinho/clean-react",
-    "stargazers_count": 1296,
+    "stargazers_count": 1300,
     "open_issues_count": 11,
     "forks_count": 284
   },
@@ -55,15 +55,15 @@
   },
   {
     "full_name": "CaiJimmy/hugo-theme-stack",
-    "stargazers_count": 3517,
-    "open_issues_count": 28,
-    "forks_count": 909
+    "stargazers_count": 3526,
+    "open_issues_count": 21,
+    "forks_count": 910
   },
   {
     "full_name": "adityatelange/hugo-PaperMod",
-    "stargazers_count": 6897,
-    "open_issues_count": 81,
-    "forks_count": 2058
+    "stargazers_count": 6929,
+    "open_issues_count": 83,
+    "forks_count": 2072
   },
   {
     "full_name": "ariaghora/villard",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 30946,
-    "open_issues_count": 157,
-    "forks_count": 1410
+    "stargazers_count": 30958,
+    "open_issues_count": 159,
+    "forks_count": 1414
   },
   {
     "full_name": "azz/pretty-quick",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "async-labs/saas",
-    "stargazers_count": 3541,
+    "stargazers_count": 3542,
     "open_issues_count": 12,
-    "forks_count": 635
+    "forks_count": 634
   },
   {
     "full_name": "qorniboy/UdemyWebDevBootCamp",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "ixartz/Next-js-Boilerplate",
-    "stargazers_count": 4491,
+    "stargazers_count": 4520,
     "open_issues_count": 2,
-    "forks_count": 937
+    "forks_count": 942
   },
   {
     "full_name": "jeeehaan/QoDe",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "theodorusclarence/ts-nextjs-tailwind-starter",
-    "stargazers_count": 2170,
+    "stargazers_count": 2181,
     "open_issues_count": 3,
     "forks_count": 335
   },
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "djizco/mern-boilerplate",
-    "stargazers_count": 241,
+    "stargazers_count": 240,
     "open_issues_count": 5,
     "forks_count": 89
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "mazipan/ksana.in",
-    "stargazers_count": 189,
+    "stargazers_count": 190,
     "open_issues_count": 3,
     "forks_count": 15
   }
